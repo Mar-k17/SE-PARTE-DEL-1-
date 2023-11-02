@@ -1,0 +1,59 @@
+html{
+      font-size: Dancing Script;
+}
+body{
+background:url(https://i.pinimg.com/originals/77/42/0d/77420df3f9e33db5b79ee25455d3340e.png)no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+h1{
+      font-size: 3.6em;
+      color:#9E9E9E;
+}
+ 
+img{
+      width: 300px;
+      height: 300px;
+      border-radius: 50px;
+      transition: all 1s;
+}
+
+img:hover {
+      -webkit-transform:rotate(-10deg);
+      -moz-transform:rotate(-10deg);
+      -o-transform:rotate(-10deg);
+      transform: rotate(-10deg);
+
+      
+}
+
+.btn-dark{
+      background-color: #3B18A2
+ }     
+
+.buffer{
+      height: 16rem;
+    }
+
+.btn{
+      font-weight: 700;
+      border-radius: 300px;
+      text-transform: uppercase;
+      transition:all 0.8s;
+    }
+
+    .btn{
+      padding: 0.8em 1.2em;
+    }
+
+    button{
+      font-family: Arial ;
+    }
+
+        .btn-dark:hover{
+      border-width: 4px;
+      transform: scale(1.1);
+    }
